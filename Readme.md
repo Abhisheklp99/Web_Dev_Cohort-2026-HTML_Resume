@@ -4,7 +4,7 @@ Resume created with HTMl only
 
 ## 🚀 Live Demo
 
-[view the site live here] ()
+[view the site live here] (https://abhisheklp99.github.io/Web_Dev_Cohort-2026-HTML_Resume/)
 
 ## 🏗 Section Created
 
